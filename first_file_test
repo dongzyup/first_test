@@ -1,5 +1,6 @@
 include<iostream>
 using namespace std;
+//主函数
 int main(){
 cout << "Hello World" << endl;
 return 0;
